@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/cherryleavescherriesgrowing",
+    "up": "nkquest:blocks/cherryleavescherriesgrowing",
+    "north": "nkquest:blocks/cherryleavescherriesgrowing",
+    "east": "nkquest:blocks/cherryleavescherriesgrowing",
+    "south": "nkquest:blocks/cherryleavescherriesgrowing",
+    "west": "nkquest:blocks/cherryleavescherriesgrowing",
+    "particle": "nkquest:blocks/cherryleavescherriesgrowing"
+  }
+}

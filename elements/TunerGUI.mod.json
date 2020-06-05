@@ -1,0 +1,70 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Crystal Tuner",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Crystal Tuner",
+          "x": 362,
+          "y": 82
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:ChargedFrequencyCrystal"
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 408,
+          "y": 114
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": ">",
+          "width": 18,
+          "height": 40,
+          "name": ">",
+          "x": 480,
+          "y": 114
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "<",
+          "width": 18,
+          "height": 40,
+          "name": "<",
+          "x": 354,
+          "y": 114
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Tune",
+          "width": 72,
+          "height": 40,
+          "name": "Tune",
+          "x": 390,
+          "y": 168
+        }
+      }
+    ]
+  }
+}

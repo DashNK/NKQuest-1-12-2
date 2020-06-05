@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/mysteriaore",
+    "up": "nkquest:blocks/mysteriaore",
+    "north": "nkquest:blocks/mysteriaore",
+    "east": "nkquest:blocks/mysteriaore",
+    "south": "nkquest:blocks/mysteriaore",
+    "west": "nkquest:blocks/mysteriaore",
+    "particle": "nkquest:blocks/mysteriaore"
+  }
+}

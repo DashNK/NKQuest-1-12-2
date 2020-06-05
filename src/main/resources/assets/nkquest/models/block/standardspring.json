@@ -1,0 +1,13 @@
+{
+  "parent": "nkquest:custom/nkspringstandard",
+  "textures": {
+    "all": "nkquest:blocks/voidblock",
+    "particle": "nkquest:blocks/voidblock",
+    "nkspringtopside": "nkquest:blocks/nkspringtopside",
+    "springbottomlayerside": "nkquest:blocks/springbottomlayerside",
+    "nkspringtopbottom": "nkquest:blocks/nkspringtopbottom",
+    "springbottomlayerfloortop": "nkquest:blocks/springbottomlayerfloortop",
+    "nkspringtoptop": "nkquest:blocks/nkspringtoptop",
+    "nkspringbottomside": "nkquest:blocks/nkspringbottomside"
+  }
+}

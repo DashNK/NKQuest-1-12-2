@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/nause_ore",
+    "up": "nkquest:blocks/nause_ore",
+    "north": "nkquest:blocks/nause_ore",
+    "east": "nkquest:blocks/nause_ore",
+    "south": "nkquest:blocks/nause_ore",
+    "west": "nkquest:blocks/nause_ore",
+    "particle": "nkquest:blocks/nause_ore"
+  }
+}

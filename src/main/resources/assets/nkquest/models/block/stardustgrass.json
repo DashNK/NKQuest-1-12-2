@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/stardust_soil",
+    "up": "nkquest:blocks/stardustgrasstop",
+    "north": "nkquest:blocks/stardustgrassside",
+    "east": "nkquest:blocks/stardustgrassside",
+    "south": "nkquest:blocks/stardustgrassside",
+    "west": "nkquest:blocks/stardustgrassside",
+    "particle": "nkquest:blocks/stardust_soil"
+  }
+}

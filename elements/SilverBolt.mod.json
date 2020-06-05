@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "silverbolt",
+    "customModelName": "Normal",
+    "name": "Silver Bolt",
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "stackSize": 0,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "NOT USABLE."
+    ],
+    "hasGlow": false
+  }
+}

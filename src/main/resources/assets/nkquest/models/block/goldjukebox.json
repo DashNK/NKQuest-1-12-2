@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/goldjukebox",
+    "up": "nkquest:blocks/goldjukebox_top",
+    "north": "nkquest:blocks/goldjukebox",
+    "east": "nkquest:blocks/goldjukebox",
+    "south": "nkquest:blocks/goldjukebox",
+    "west": "nkquest:blocks/goldjukebox",
+    "particle": "nkquest:blocks/goldjukebox"
+  }
+}

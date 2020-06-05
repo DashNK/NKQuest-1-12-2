@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/dashpadsides",
+    "up": "nkquest:blocks/dashpad",
+    "north": "nkquest:blocks/dashpadsides",
+    "east": "nkquest:blocks/dashpadsides",
+    "south": "nkquest:blocks/dashpadsides",
+    "west": "nkquest:blocks/dashpadsides",
+    "particle": "nkquest:blocks/dashpadsides"
+  }
+}

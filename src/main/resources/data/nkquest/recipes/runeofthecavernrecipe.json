@@ -1,0 +1,42 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:clay_ball"
+    },
+    "1": {
+      "item": "minecraft:iron_block"
+    },
+    "2": {
+      "item": "minecraft:clay_ball"
+    },
+    "3": {
+      "item": "minecraft:coal_block"
+    },
+    "4": {
+      "item": "nkquest:rune"
+    },
+    "5": {
+      "item": "minecraft:coal_block"
+    },
+    "6": {
+      "item": "minecraft:clay_ball"
+    },
+    "7": {
+      "item": "minecraft:flint"
+    },
+    "8": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "nkquest:mineralcavern",
+    "count": 1
+  }
+}

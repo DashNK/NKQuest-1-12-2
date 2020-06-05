@@ -1,0 +1,66 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 100,
+    "renderBgLayer": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Confirm",
+          "onClick": {
+            "name": "ConfrimCharReset"
+          },
+          "width": 90,
+          "height": 40,
+          "name": "Confirm",
+          "x": 300,
+          "y": 240
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Back",
+          "onClick": {
+            "name": "GuiClose"
+          },
+          "width": 90,
+          "height": 40,
+          "name": "Back",
+          "x": 462,
+          "y": 240
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Are you sure you wish to change your character? ",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Are you sure you wish to change your character? ",
+          "x": 194,
+          "y": 168
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Your token will be removed!",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Your token will be removed!",
+          "x": 287,
+          "y": 192
+        }
+      }
+    ]
+  }
+}

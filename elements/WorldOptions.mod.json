@@ -1,0 +1,243 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 512,
+    "height": 468,
+    "renderBgLayer": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "     World Options   ",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "     World Options   ",
+          "x": 318,
+          "y": 24
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Keep items on death",
+          "onClick": {
+            "name": "SetKeepInventory"
+          },
+          "width": 198,
+          "height": 40,
+          "name": "Keep items on death",
+          "x": 192,
+          "y": 78
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:KeepInventory>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:KeepInventory>",
+          "x": 192,
+          "y": 114
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Next",
+          "onClick": {
+            "name": "OpenCharacterMenu"
+          },
+          "width": 80,
+          "height": 40,
+          "name": "Next",
+          "x": 588,
+          "y": 420
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Mob Griefing",
+          "onClick": {
+            "name": "SetMobGreifing"
+          },
+          "width": 198,
+          "height": 40,
+          "name": "Mob Griefing",
+          "x": 192,
+          "y": 150
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:MobGriefing>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:MobGriefing>",
+          "x": 192,
+          "y": 186
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Fire Spreading",
+          "onClick": {
+            "name": "SetFireSpread"
+          },
+          "width": 198,
+          "height": 40,
+          "name": "Fire Spreading",
+          "x": 192,
+          "y": 222
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:FireSpreading>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:FireSpreading>",
+          "x": 192,
+          "y": 258
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Weather Modes",
+          "onClick": {
+            "name": "WeatherModes"
+          },
+          "width": 198,
+          "height": 40,
+          "name": "Weather Modes",
+          "x": 192,
+          "y": 294
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:WeatherType>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:WeatherType>",
+          "x": 192,
+          "y": 330
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Time Modes",
+          "width": 198,
+          "height": 40,
+          "name": "Time Modes",
+          "x": 192,
+          "y": 366
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:TimeModes>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:TimeModes>",
+          "x": 192,
+          "y": 402
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Start With Guides",
+          "width": 180,
+          "height": 40,
+          "name": "Start With Guides",
+          "x": 480,
+          "y": 78
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Starter Items",
+          "width": 180,
+          "height": 40,
+          "name": "Starter Items",
+          "x": 480,
+          "y": 150
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:StarterItems>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:StarterItems>",
+          "x": 480,
+          "y": 186
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:StarterGuides>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:StarterGuides>",
+          "x": 480,
+          "y": 114
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Cheats Enabled",
+          "width": 180,
+          "height": 40,
+          "name": "Cheats Enabled",
+          "x": 480,
+          "y": 222
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:CheatsOn>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:CheatsOn>",
+          "x": 480,
+          "y": 258
+        }
+      }
+    ]
+  }
+}

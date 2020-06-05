@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "flintaxe",
+    "customModelName": "Normal",
+    "name": "Flint Axe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 0,
+    "efficiency": 1.0,
+    "attackSpeed": 1.0,
+    "enchantability": 0,
+    "damageVsEntity": 0.25,
+    "usageCount": 32,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "onBlockDestroyedWithTool": {
+      "name": "FlintToolsProcedure"
+    }
+  }
+}

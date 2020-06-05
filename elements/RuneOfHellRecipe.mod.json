@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.CLAY_BALL"
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": "Items.CLAY_BALL"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "CUSTOM:Rune"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "Items.CLAY_BALL"
+      },
+      {
+        "value": "Items.LAVA_BUCKET"
+      },
+      {
+        "value": "Items.CLAY_BALL"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RuneOfHell"
+    },
+    "name": "runeofhellrecipe",
+    "namespace": "mod"
+  }
+}

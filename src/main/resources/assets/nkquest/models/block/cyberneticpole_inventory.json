@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "nkquest:blocks/angelic_station_bottom",
+    "particle": "nkquest:blocks/angelic_station_bottom"
+  }
+}

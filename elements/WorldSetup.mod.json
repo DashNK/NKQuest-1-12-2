@@ -1,0 +1,105 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 480,
+    "height": 180,
+    "renderBgLayer": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Welcome to your newly created world! ",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Welcome to your newly created world! ",
+          "x": 244,
+          "y": 176
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "World Setup WIzard",
+          "color": {
+            "value": -10066432,
+            "falpha": 0.0
+          },
+          "name": "World Setup WIzard",
+          "x": 329,
+          "y": 151
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Click \"NEXT\" to continue setup, or ",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Click \"NEXT\" to continue setup, or ",
+          "x": 255,
+          "y": 198
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "\"SKIP\" to close this GUI",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "\"SKIP\" to close this GUI",
+          "x": 310,
+          "y": 219
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "NEXT",
+          "onClick": {
+            "name": "ToCharacterScreen"
+          },
+          "width": 126,
+          "height": 40,
+          "name": "NEXT",
+          "x": 246,
+          "y": 276
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "SKIP",
+          "onClick": {
+            "name": "GuiClose"
+          },
+          "width": 120,
+          "height": 40,
+          "name": "SKIP",
+          "x": 480,
+          "y": 276
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "(You can type \"/nkq setup\" to reopen this gui)",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "(You can type \"/nkq setup\" to reopen this gui)",
+          "x": 196,
+          "y": 241
+        }
+      }
+    ]
+  }
+}

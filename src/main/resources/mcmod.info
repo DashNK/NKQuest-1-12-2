@@ -2,7 +2,7 @@
   {
     "modid": "nkquest",
     "name": "nkquest",
-    "description": "",
+    "description": "The ''bridge''between mods in the SHellquestMC Modpack, with a twist!",
     "version": "1.0.0",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "logoFile": "",
@@ -10,9 +10,11 @@
     "url": "https://mcreator.net",
     "updateUrl": "",
     "authorList": [
-      "Jayden, MCreator"
+      "DashNK"
     ],
-    "dependencies": [],
+    "dependencies": [
+      "forge@[14.23.5.2768]"
+    ],
     "dependants": [],
     "requiredMods": [],
     "useDependencyInformation": "true"

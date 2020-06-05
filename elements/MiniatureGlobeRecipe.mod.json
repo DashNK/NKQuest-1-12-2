@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Blocks.LOG"
+      },
+      {
+        "value": "Blocks.CACTUS"
+      },
+      {
+        "value": "Blocks.PRISMARINE#0"
+      },
+      {
+        "value": "Blocks.MELON_BLOCK"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY"
+      },
+      {
+        "value": "Blocks.WATERLILY"
+      },
+      {
+        "value": "Blocks.PURPUR_BLOCK"
+      },
+      {
+        "value": "Blocks.PACKED_ICE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MiniatureGlobe"
+    },
+    "name": "miniaturegloberecipe",
+    "namespace": "mod"
+  }
+}

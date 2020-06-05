@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/ashstone",
+    "up": "nkquest:blocks/ashstone",
+    "north": "nkquest:blocks/ashstone",
+    "east": "nkquest:blocks/ashstone",
+    "south": "nkquest:blocks/ashstone",
+    "west": "nkquest:blocks/ashstone",
+    "particle": "nkquest:blocks/ashstone"
+  }
+}

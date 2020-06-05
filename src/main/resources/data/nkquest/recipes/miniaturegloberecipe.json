@@ -1,0 +1,37 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_log"
+    },
+    {
+      "item": "minecraft:cactus"
+    },
+    {
+      "item": "minecraft:prismarine"
+    },
+    {
+      "item": "minecraft:melon"
+    },
+    {
+      "item": "minecraft:nether_bricks"
+    },
+    {
+      "item": "minecraft:white_terracotta"
+    },
+    {
+      "item": "minecraft:lily_pad"
+    },
+    {
+      "item": "minecraft:purpur_block"
+    },
+    {
+      "item": "minecraft:packed_ice"
+    }
+  ],
+  "result": {
+    "item": "nkquest:miniatureglobe",
+    "count": 1
+  }
+}

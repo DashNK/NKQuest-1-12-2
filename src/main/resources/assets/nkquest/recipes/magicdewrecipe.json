@@ -1,0 +1,43 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nkquest:magiciadust"
+    },
+    "1": {
+      "item": "nkquest:magiciadust"
+    },
+    "2": {
+      "item": "nkquest:magiciadust"
+    },
+    "3": {
+      "item": "nkquest:magiciadust"
+    },
+    "4": {
+      "item": "minecraft:potion",
+      "data": 32767
+    },
+    "5": {
+      "item": "nkquest:magiciadust"
+    },
+    "6": {
+      "item": "nkquest:magiciadust"
+    },
+    "7": {
+      "item": "nkquest:magiciadust"
+    },
+    "8": {
+      "item": "nkquest:magiciadust"
+    }
+  },
+  "result": {
+    "item": "nkquest:bottleofmagicia",
+    "count": 1
+  }
+}

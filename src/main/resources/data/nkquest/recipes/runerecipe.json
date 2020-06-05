@@ -1,0 +1,11 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "ingredient": {
+    "item": "nkquest:runecompound"
+  },
+  "result": {
+    "item": "nkquest:rune"
+  }
+}

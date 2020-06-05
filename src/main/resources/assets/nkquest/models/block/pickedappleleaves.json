@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/appleleavesgrowing",
+    "up": "nkquest:blocks/appleleavesgrowing",
+    "north": "nkquest:blocks/appleleavesgrowing",
+    "east": "nkquest:blocks/appleleavesgrowing",
+    "south": "nkquest:blocks/appleleavesgrowing",
+    "west": "nkquest:blocks/appleleavesgrowing",
+    "particle": "nkquest:blocks/appleleavesgrowing"
+  }
+}

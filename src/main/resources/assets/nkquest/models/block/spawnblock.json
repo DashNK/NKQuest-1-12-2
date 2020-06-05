@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/spawnblock",
+    "up": "nkquest:blocks/spawnblock",
+    "north": "nkquest:blocks/spawnblock",
+    "east": "nkquest:blocks/spawnblock",
+    "south": "nkquest:blocks/spawnblock",
+    "west": "nkquest:blocks/spawnblock",
+    "particle": "nkquest:blocks/spawnblock"
+  }
+}

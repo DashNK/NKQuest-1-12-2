@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/thundercrystal",
+    "up": "nkquest:blocks/thundercrystal",
+    "north": "nkquest:blocks/thundercrystal",
+    "east": "nkquest:blocks/thundercrystal",
+    "south": "nkquest:blocks/thundercrystal",
+    "west": "nkquest:blocks/thundercrystal",
+    "particle": "nkquest:blocks/thundercrystal"
+  }
+}

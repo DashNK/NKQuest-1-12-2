@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/cobblecrust",
+    "up": "nkquest:blocks/cobblecrust",
+    "north": "nkquest:blocks/cobblecrust",
+    "east": "nkquest:blocks/cobblecrust",
+    "south": "nkquest:blocks/cobblecrust",
+    "west": "nkquest:blocks/cobblecrust",
+    "particle": "nkquest:blocks/cobblecrust"
+  }
+}

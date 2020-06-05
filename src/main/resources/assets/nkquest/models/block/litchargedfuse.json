@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/litchargedfuse",
+    "up": "nkquest:blocks/litchargedfuse",
+    "north": "nkquest:blocks/litchargedfuse",
+    "east": "nkquest:blocks/litchargedfuse",
+    "south": "nkquest:blocks/litchargedfuse",
+    "west": "nkquest:blocks/litchargedfuse",
+    "particle": "nkquest:blocks/litchargedfuse"
+  }
+}

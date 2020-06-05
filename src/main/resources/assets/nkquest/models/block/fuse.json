@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/fuse",
+    "up": "nkquest:blocks/fuse",
+    "north": "nkquest:blocks/fuse",
+    "east": "nkquest:blocks/fuse",
+    "south": "nkquest:blocks/fuse",
+    "west": "nkquest:blocks/fuse",
+    "particle": "nkquest:blocks/fuse"
+  }
+}

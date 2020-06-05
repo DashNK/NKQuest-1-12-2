@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/stardustore",
+    "up": "nkquest:blocks/stardustore",
+    "north": "nkquest:blocks/stardustore",
+    "east": "nkquest:blocks/stardustore",
+    "south": "nkquest:blocks/stardustore",
+    "west": "nkquest:blocks/stardustore",
+    "particle": "nkquest:blocks/stardustore"
+  }
+}

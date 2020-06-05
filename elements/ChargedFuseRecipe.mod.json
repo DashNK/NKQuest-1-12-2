@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 4,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "CUSTOM:Fuse"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChargedFuse"
+    },
+    "name": "fuserecipe",
+    "namespace": "mod"
+  }
+}

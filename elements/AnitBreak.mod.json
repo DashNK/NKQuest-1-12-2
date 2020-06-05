@@ -1,0 +1,29 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "Anit Break",
+    "effectName": "Anit Break",
+    "icon": "energy1.png",
+    "color": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": false,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "curativeItems": [],
+    "renderStatusInInventory": false,
+    "renderStatusInHUD": false,
+    "onStarted": {
+      "name": "AnitBreakPotionStartedapplied"
+    },
+    "onActiveTick": {
+      "name": "AnitBreakOnPotionActiveTick"
+    },
+    "onExpired": {
+      "name": "AnitBreakPotionExpires"
+    }
+  }
+}

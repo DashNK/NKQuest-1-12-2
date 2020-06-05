@@ -1,0 +1,24 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "Power Up Potion Of Fire",
+    "effectName": "Power Up Potion Of Fire",
+    "icon": "fireballthrown.png",
+    "color": {
+      "value": -1012440,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": true,
+    "curativeItems": [
+      {
+        "value": "Items.MILK_BUCKET"
+      }
+    ],
+    "renderStatusInInventory": false,
+    "renderStatusInHUD": false
+  }
+}

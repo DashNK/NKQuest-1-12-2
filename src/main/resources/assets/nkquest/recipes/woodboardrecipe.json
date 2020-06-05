@@ -1,0 +1,26 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nkquest:logbark"
+    },
+    "1": {
+      "item": "nkquest:logbark"
+    },
+    "2": {
+      "item": "nkquest:logbark"
+    },
+    "3": {
+      "item": "nkquest:logbark"
+    }
+  },
+  "result": {
+    "item": "nkquest:woodenboard",
+    "count": 1
+  }
+}

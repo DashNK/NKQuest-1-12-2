@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.CLAY_BALL"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Items.CLAY_BALL"
+      },
+      {
+        "value": "Blocks.COAL_BLOCK"
+      },
+      {
+        "value": "CUSTOM:Rune"
+      },
+      {
+        "value": "Blocks.COAL_BLOCK"
+      },
+      {
+        "value": "Items.CLAY_BALL"
+      },
+      {
+        "value": "Items.FLINT"
+      },
+      {
+        "value": "Items.CLAY_BALL"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MineralCavern"
+    },
+    "name": "runeofthecavernrecipe",
+    "namespace": "mod"
+  }
+}

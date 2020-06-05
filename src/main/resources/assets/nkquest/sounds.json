@@ -1,1 +1,245 @@
-{}
+{
+  "nkquest.entity.dimtp": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "nkquest:nkqdimtp",
+        "stream": false
+      }
+    ]
+  },
+  "nkquest.entity.invisible": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "nkquest:nkqinvisible",
+        "stream": false
+      }
+    ]
+  },
+  "nkquest.entity.visible": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "nkquest:nkqvisible",
+        "stream": false
+      }
+    ]
+  },
+  "nkquest_race.record.raceintro": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkll_racebegin",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest_race.record.nitrocircuit": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkll_nitrocircuit",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.auroraaltitude.1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_disc_aurora_altitude_1",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.auroraaltitude": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_album_nk_auroraaltitude",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.greatgorge1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_disc_greatgorgesection1",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.greatgorge2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_disc_greatgorgesection2",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.greatgorge3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_disc_greatgorgesection3",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.auroraaltitude.3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_disc_aurora_altitude_3",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.cargocanyon1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_album_nk_cargocanyon1",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.cargocanyon2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_album_nk_cargocanyon2",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.cargocanyon3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_album_nk_cargocanyon3",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.lightninglift1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_album_nk_lightninglift1",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.lightninglift2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_album_nk_lightninglift2",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.lightninglift3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_album_nk_lightninglift3",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.hijinxheights1": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_album_nk_hijinxheights1",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.hijinxheights2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_album_nk_hijinxheights2",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.record.nk.hijinxheights3": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_album_nk_hijinxheights3",
+        "stream": true
+      }
+    ]
+  },
+  "nkquest.entity.magicblastcharge": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "nkquest:nkqmagicblastcharge",
+        "stream": false
+      }
+    ]
+  },
+  "nkquest.entity.magicblastfire": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "nkquest:nkqmagicblastfire",
+        "stream": false
+      }
+    ]
+  },
+  "nkquest.block.capsulebreak": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "nkquest:sound_capsulebreak",
+        "stream": false
+      }
+    ]
+  },
+  "nkquest.block.paradisestaractivate": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "nkquest:paradisestaractivate",
+        "stream": false
+      }
+    ]
+  },
+  "nkquest.ambient.dash_boost": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_boost",
+        "stream": false
+      }
+    ]
+  },
+  "nkquest.master.dash_boost2": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "nkquest:tbg_boost1",
+        "stream": false
+      }
+    ]
+  },
+  "nkquest.ambient.nkspring": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "nkquest:nkq_spring",
+        "stream": false
+      }
+    ]
+  }
+}

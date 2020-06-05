@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nkquest:lobby_portal_ew"
+    },
+    "axis=x": {
+      "model": "nkquest:lobby_portal_ns"
+    },
+    "inventory": {
+      "model": "nkquest:lobby_portal_ns"
+    }
+  }
+}

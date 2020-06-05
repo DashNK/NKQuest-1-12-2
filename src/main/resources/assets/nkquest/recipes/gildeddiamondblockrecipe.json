@@ -1,0 +1,42 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_block"
+    },
+    "1": {
+      "item": "minecraft:emerald"
+    },
+    "2": {
+      "item": "minecraft:gold_block"
+    },
+    "3": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "minecraft:diamond_block"
+    },
+    "5": {
+      "item": "minecraft:emerald"
+    },
+    "6": {
+      "item": "minecraft:gold_block"
+    },
+    "7": {
+      "item": "minecraft:emerald"
+    },
+    "8": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "nkquest:gildeddiamondblock",
+    "count": 1
+  }
+}

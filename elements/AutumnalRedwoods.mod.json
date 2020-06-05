@@ -1,0 +1,69 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Autumnal Redwoods",
+    "groundBlock": {
+      "value": "Blocks.DIRT#2"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "generateLakes": false,
+    "treeType": 0,
+    "vanillaTreeType": "Default",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": ""
+    },
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -9202705,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -3239113,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -12547112,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 3,
+    "grassPerChunk": 4,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 12,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 8,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.4,
+    "temperature": 0.25,
+    "baseHeight": 0.08,
+    "heightVariation": 0.08,
+    "spawnBiome": true,
+    "biomeWeight": 10,
+    "biomeType": "COOL",
+    "biomeCategory": "TAIGA",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "COLD",
+      "CONIFEROUS"
+    ],
+    "spawnList": []
+  }
+}

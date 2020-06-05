@@ -1,0 +1,39 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nkquest:plastic"
+    },
+    "1": {
+      "item": "nkquest:plastic"
+    },
+    "2": {
+      "item": "nkquest:plastic"
+    },
+    "3": {
+      "item": "nkquest:plastic"
+    },
+    "5": {
+      "item": "nkquest:plastic"
+    },
+    "6": {
+      "item": "nkquest:plastic"
+    },
+    "7": {
+      "item": "nkquest:plastic"
+    },
+    "8": {
+      "item": "nkquest:plastic"
+    }
+  },
+  "result": {
+    "item": "nkquest:blankrecord",
+    "count": 1
+  }
+}

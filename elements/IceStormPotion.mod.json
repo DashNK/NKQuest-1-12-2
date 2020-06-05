@@ -1,0 +1,20 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "Ice Storm",
+    "effectName": "Ice Storm",
+    "icon": "black (2).png",
+    "color": {
+      "value": -3342388,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": false,
+    "curativeItems": [],
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true
+  }
+}

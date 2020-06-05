@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nkquest:crypticarchipelago_portal_ew"
+    },
+    "axis=x": {
+      "model": "nkquest:crypticarchipelago_portal_ns"
+    },
+    "inventory": {
+      "model": "nkquest:crypticarchipelago_portal_ns"
+    }
+  }
+}

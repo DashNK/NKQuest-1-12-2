@@ -1,0 +1,49 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "type": "forge:ore_dict",
+      "ore": "gearIron"
+    },
+    "1": {
+      "item": "minecraft:redstone"
+    },
+    "2": {
+      "type": "forge:ore_dict",
+      "ore": "gearIron"
+    },
+    "3": {
+      "type": "forge:ore_dict",
+      "ore": "gearGold"
+    },
+    "4": {
+      "type": "forge:ore_dict",
+      "ore": "gearIron"
+    },
+    "5": {
+      "type": "forge:ore_dict",
+      "ore": "gearGold"
+    },
+    "6": {
+      "type": "forge:ore_dict",
+      "ore": "gearDiamond"
+    },
+    "7": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "8": {
+      "type": "forge:ore_dict",
+      "ore": "gearDiamond"
+    }
+  },
+  "result": {
+    "item": "nkquest:quarryplus",
+    "count": 1
+  }
+}

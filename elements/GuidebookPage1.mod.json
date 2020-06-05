@@ -1,0 +1,25 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "so how was school today.",
+          "color": {
+            "value": -13382401,
+            "falpha": 0.0
+          },
+          "name": "so how was school today.",
+          "x": 300,
+          "y": 222
+        }
+      }
+    ]
+  }
+}

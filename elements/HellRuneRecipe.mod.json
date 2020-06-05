@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "Items.FLINT_AND_STEEL"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "CUSTOM:Rune"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RuneOfHell"
+    },
+    "name": "hellrunerecipe",
+    "namespace": "mod"
+  }
+}

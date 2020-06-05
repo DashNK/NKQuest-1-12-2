@@ -1,0 +1,68 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Enchanted Stonelands",
+    "groundBlock": {
+      "value": "CUSTOM:EnchantedStone"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "generateLakes": false,
+    "treeType": 0,
+    "vanillaTreeType": "Default",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": ""
+    },
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -5912321,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -10308524,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -13079329,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 7,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.05,
+    "heightVariation": 0.025,
+    "spawnBiome": true,
+    "biomeWeight": 10,
+    "biomeType": "WARM",
+    "biomeCategory": "PLAINS",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "PLAINS"
+    ],
+    "spawnList": []
+  }
+}

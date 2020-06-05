@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/appleleaves",
+    "up": "nkquest:blocks/appleleaves",
+    "north": "nkquest:blocks/appleleaves",
+    "east": "nkquest:blocks/appleleaves",
+    "south": "nkquest:blocks/appleleaves",
+    "west": "nkquest:blocks/appleleaves",
+    "particle": "nkquest:blocks/appleleaves"
+  }
+}

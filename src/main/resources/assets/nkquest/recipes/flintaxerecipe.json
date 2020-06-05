@@ -1,0 +1,22 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "nkquest:twigglylimb"
+    }
+  ],
+  "result": {
+    "item": "nkquest:flintaxe",
+    "count": 1
+  }
+}

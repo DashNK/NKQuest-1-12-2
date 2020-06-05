@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "nkquest:blocks/chromasapling",
+    "particle": "nkquest:blocks/chromasapling"
+  }
+}

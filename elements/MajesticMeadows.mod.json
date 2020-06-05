@@ -1,0 +1,70 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Majestic Meadows",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "generateLakes": true,
+    "treeType": 0,
+    "vanillaTreeType": "Mega pine trees",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": ""
+    },
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -8875802,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16756459,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -15317069,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 1,
+    "grassPerChunk": 12,
+    "flowersPerChunk": 8,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": -0.04,
+    "heightVariation": 0.04,
+    "spawnBiome": true,
+    "biomeWeight": 10,
+    "biomeType": "COOL",
+    "biomeCategory": "TAIGA",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [
+      "FOREST",
+      "PLAINS",
+      "LUSH"
+    ],
+    "spawnList": []
+  }
+}

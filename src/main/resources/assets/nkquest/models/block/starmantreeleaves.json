@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/starmantreeleaves",
+    "up": "nkquest:blocks/starmantreeleaves",
+    "north": "nkquest:blocks/starmantreeleaves",
+    "east": "nkquest:blocks/starmantreeleaves",
+    "south": "nkquest:blocks/starmantreeleaves",
+    "west": "nkquest:blocks/starmantreeleaves",
+    "particle": "nkquest:blocks/starmantreeleaves"
+  }
+}

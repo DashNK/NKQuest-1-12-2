@@ -1,0 +1,49 @@
+{
+  "_fv": 6,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.LOG"
+      },
+      {
+        "value": "Blocks.LOG#0"
+      },
+      {
+        "value": "Blocks.LOG#2"
+      },
+      {
+        "value": "Blocks.LOG#3"
+      },
+      {
+        "value": "Blocks.LOG#3"
+      },
+      {
+        "value": "Blocks.LOG2"
+      },
+      {
+        "value": "Blocks.LOG2#0"
+      },
+      {
+        "value": "Blocks.LOG2#1"
+      },
+      {
+        "value": "CUSTOM:ShimmeringLog"
+      },
+      {
+        "value": "CUSTOM:CherryBloomLog"
+      },
+      {
+        "value": "CUSTOM:ChromaticTreeLog"
+      },
+      {
+        "value": "CUSTOM:StarmanTreeLog"
+      }
+    ],
+    "functions": [],
+    "name": "logWood",
+    "namespace": "forge"
+  }
+}

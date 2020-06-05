@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nkquest:standardspring"
+    },
+    "facing=south": {
+      "model": "nkquest:standardspring"
+    },
+    "facing=north": {
+      "model": "nkquest:standardspring"
+    },
+    "facing=east": {
+      "model": "nkquest:standardspring",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "nkquest:standardspring",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "nkquest:standardspring",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "nkquest:standardspring",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

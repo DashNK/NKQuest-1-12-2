@@ -1,0 +1,7 @@
+{
+  "_fv": 6,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">Player respawns</field><next><block type=\"entity_nbt_num_set\"><value name=\"tagName\"><block type=\"text\"><field name=\"TEXT\">characterID</field></block></value><value name=\"tagValue\"><block type=\"variables_get_number\"><field name=\"VAR\">global:CharacterID</field></block></value><next><block type=\"entity_nbt_num_set\"><value name=\"tagName\"><block type=\"text\"><field name=\"TEXT\">iceStorm</field></block></value><value name=\"tagValue\"><block type=\"variables_get_number\"><field name=\"VAR\">global:IceStormActive</field></block></value><next><block type=\"entity_nbt_logic_set\"><value name=\"tagName\"><block type=\"text\"><field name=\"TEXT\">hasStarBoots</field></block></value><value name=\"tagValue\"><block type=\"variables_get_logic\"><field name=\"VAR\">global:DashHasStarBoots</field></block></value><next><block type=\"entity_nbt_logic_set\"><value name=\"tagName\"><block type=\"text\"><field name=\"TEXT\">firstPlay</field></block></value><value name=\"tagValue\"><block type=\"variables_get_logic\"><field name=\"VAR\">global:FirstPlay</field></block></value></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

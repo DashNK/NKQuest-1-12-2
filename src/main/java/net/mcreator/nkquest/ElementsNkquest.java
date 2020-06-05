@@ -34,6 +34,21 @@ import net.minecraft.entity.player.EntityPlayerMP;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.block.Block;
 
+import net.mcreator.nkquest.gui.GuiWorldSetup;
+import net.mcreator.nkquest.gui.GuiWorldOptions;
+import net.mcreator.nkquest.gui.GuiTunerGUI;
+import net.mcreator.nkquest.gui.GuiMindsetGUI;
+import net.mcreator.nkquest.gui.GuiMindbendMenu;
+import net.mcreator.nkquest.gui.GuiIronJukeboxGUI;
+import net.mcreator.nkquest.gui.GuiGuidebookPage1;
+import net.mcreator.nkquest.gui.GuiGoldenJukeboxGUI;
+import net.mcreator.nkquest.gui.GuiEtcherGUI;
+import net.mcreator.nkquest.gui.GuiDiamondJukeboxGUI;
+import net.mcreator.nkquest.gui.GuiDashShellGUI;
+import net.mcreator.nkquest.gui.GuiClassSelect;
+import net.mcreator.nkquest.gui.GuiCharacterSelect;
+import net.mcreator.nkquest.gui.GuiCharResetWarning;
+
 import java.util.function.Supplier;
 import java.util.Random;
 import java.util.Map;
@@ -54,6 +69,60 @@ public class ElementsNkquest implements IFuelHandler, IWorldGenerator {
 	public final List<Supplier<Potion>> potions = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public ElementsNkquest() {
+		sounds.put(new ResourceLocation("nkquest", "nkquest.entity.dimtp"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.entity.dimtp")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.entity.invisible"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.entity.invisible")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.entity.visible"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.entity.visible")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest_race.record.raceintro"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest_race.record.raceintro")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest_race.record.nitrocircuit"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest_race.record.nitrocircuit")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.auroraaltitude.1"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.auroraaltitude.1")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.auroraaltitude"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.auroraaltitude")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.greatgorge1"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.greatgorge1")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.greatgorge2"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.greatgorge2")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.greatgorge3"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.greatgorge3")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.auroraaltitude.3"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.auroraaltitude.3")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.cargocanyon1"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.cargocanyon1")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.cargocanyon2"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.cargocanyon2")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.cargocanyon3"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.cargocanyon3")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.lightninglift1"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.lightninglift1")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.lightninglift2"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.lightninglift2")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.lightninglift3"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.lightninglift3")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.hijinxheights1"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.hijinxheights1")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.hijinxheights2"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.hijinxheights2")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.record.nk.hijinxheights3"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.record.nk.hijinxheights3")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.entity.magicblastcharge"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.entity.magicblastcharge")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.entity.magicblastfire"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.entity.magicblastfire")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.block.capsulebreak"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.block.capsulebreak")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.block.paradisestaractivate"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.block.paradisestaractivate")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.ambient.dash_boost"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.ambient.dash_boost")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.master.dash_boost2"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.master.dash_boost2")));
+		sounds.put(new ResourceLocation("nkquest", "nkquest.ambient.nkspring"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("nkquest", "nkquest.ambient.nkspring")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {
@@ -122,11 +191,67 @@ public class ElementsNkquest implements IFuelHandler, IWorldGenerator {
 	public static class GuiHandler implements IGuiHandler {
 		@Override
 		public Object getServerGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
+			if (id == GuiDashShellGUI.GUIID)
+				return new GuiDashShellGUI.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiMindbendMenu.GUIID)
+				return new GuiMindbendMenu.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiMindsetGUI.GUIID)
+				return new GuiMindsetGUI.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiCharacterSelect.GUIID)
+				return new GuiCharacterSelect.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiCharResetWarning.GUIID)
+				return new GuiCharResetWarning.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiWorldSetup.GUIID)
+				return new GuiWorldSetup.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiWorldOptions.GUIID)
+				return new GuiWorldOptions.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiGuidebookPage1.GUIID)
+				return new GuiGuidebookPage1.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiClassSelect.GUIID)
+				return new GuiClassSelect.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiGoldenJukeboxGUI.GUIID)
+				return new GuiGoldenJukeboxGUI.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiIronJukeboxGUI.GUIID)
+				return new GuiIronJukeboxGUI.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiDiamondJukeboxGUI.GUIID)
+				return new GuiDiamondJukeboxGUI.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiTunerGUI.GUIID)
+				return new GuiTunerGUI.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiEtcherGUI.GUIID)
+				return new GuiEtcherGUI.GuiContainerMod(world, x, y, z, player);
 			return null;
 		}
 
 		@Override
 		public Object getClientGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
+			if (id == GuiDashShellGUI.GUIID)
+				return new GuiDashShellGUI.GuiWindow(world, x, y, z, player);
+			if (id == GuiMindbendMenu.GUIID)
+				return new GuiMindbendMenu.GuiWindow(world, x, y, z, player);
+			if (id == GuiMindsetGUI.GUIID)
+				return new GuiMindsetGUI.GuiWindow(world, x, y, z, player);
+			if (id == GuiCharacterSelect.GUIID)
+				return new GuiCharacterSelect.GuiWindow(world, x, y, z, player);
+			if (id == GuiCharResetWarning.GUIID)
+				return new GuiCharResetWarning.GuiWindow(world, x, y, z, player);
+			if (id == GuiWorldSetup.GUIID)
+				return new GuiWorldSetup.GuiWindow(world, x, y, z, player);
+			if (id == GuiWorldOptions.GUIID)
+				return new GuiWorldOptions.GuiWindow(world, x, y, z, player);
+			if (id == GuiGuidebookPage1.GUIID)
+				return new GuiGuidebookPage1.GuiWindow(world, x, y, z, player);
+			if (id == GuiClassSelect.GUIID)
+				return new GuiClassSelect.GuiWindow(world, x, y, z, player);
+			if (id == GuiGoldenJukeboxGUI.GUIID)
+				return new GuiGoldenJukeboxGUI.GuiWindow(world, x, y, z, player);
+			if (id == GuiIronJukeboxGUI.GUIID)
+				return new GuiIronJukeboxGUI.GuiWindow(world, x, y, z, player);
+			if (id == GuiDiamondJukeboxGUI.GUIID)
+				return new GuiDiamondJukeboxGUI.GuiWindow(world, x, y, z, player);
+			if (id == GuiTunerGUI.GUIID)
+				return new GuiTunerGUI.GuiWindow(world, x, y, z, player);
+			if (id == GuiEtcherGUI.GUIID)
+				return new GuiEtcherGUI.GuiWindow(world, x, y, z, player);
 			return null;
 		}
 	}

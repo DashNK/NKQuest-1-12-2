@@ -1,0 +1,51 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "nkquest:cyberneticpole_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "nkquest:cyberneticpole",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "nkquest:cyberneticpole",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "nkquest:cyberneticpole",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "nkquest:cyberneticpole",
+        "y": 90,
+        "uvlock": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/advancedjukebox_side",
+    "up": "nkquest:blocks/advancedjukebox_top",
+    "north": "nkquest:blocks/advancedjukebox_side",
+    "east": "nkquest:blocks/advancedjukebox_side",
+    "south": "nkquest:blocks/advancedjukebox_side",
+    "west": "nkquest:blocks/advancedjukebox_side",
+    "particle": "nkquest:blocks/advancedjukebox_side"
+  }
+}

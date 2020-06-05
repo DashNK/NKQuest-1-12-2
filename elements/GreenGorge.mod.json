@@ -1,0 +1,69 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Green Gorge",
+    "groundBlock": {
+      "value": "CUSTOM:GrassyDriedDirt"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:DriedDirt"
+    },
+    "generateLakes": true,
+    "treeType": 0,
+    "vanillaTreeType": "Default",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": ""
+    },
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -10371854,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -721152,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -10529324,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 1,
+    "grassPerChunk": 16,
+    "flowersPerChunk": 8,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 6,
+    "gravelPatchesPerChunk": 12,
+    "reedsPerChunk": 4,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 1.9,
+    "heightVariation": 0.0,
+    "spawnBiome": true,
+    "biomeWeight": 8,
+    "biomeType": "WARM",
+    "biomeCategory": "PLAINS",
+    "parent": {
+      "value": "CUSTOM:GreenGorge"
+    },
+    "biomeDictionaryTypes": [
+      "PLAINS",
+      "LUSH"
+    ],
+    "spawnList": []
+  }
+}

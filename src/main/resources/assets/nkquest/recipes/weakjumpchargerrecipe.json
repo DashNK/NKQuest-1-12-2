@@ -1,0 +1,42 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone"
+    },
+    "1": {
+      "item": "minecraft:piston"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "minecraft:redstone"
+    },
+    "4": {
+      "item": "minecraft:coal_block"
+    },
+    "5": {
+      "item": "minecraft:redstone"
+    },
+    "6": {
+      "item": "minecraft:iron_block"
+    },
+    "7": {
+      "item": "minecraft:iron_block"
+    },
+    "8": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "nkquest:jumppadweak",
+    "count": 1
+  }
+}

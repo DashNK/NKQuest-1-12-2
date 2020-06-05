@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nkquest:twilightrift_portal_ew"
+    },
+    "axis=x": {
+      "model": "nkquest:twilightrift_portal_ns"
+    },
+    "inventory": {
+      "model": "nkquest:twilightrift_portal_ns"
+    }
+  }
+}

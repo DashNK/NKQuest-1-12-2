@@ -1,0 +1,43 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gunpowder"
+    },
+    "1": {
+      "item": "nkquest:ash"
+    },
+    "2": {
+      "item": "minecraft:gunpowder"
+    },
+    "3": {
+      "item": "nkquest:ash"
+    },
+    "4": {
+      "item": "minecraft:wool",
+      "data": 32767
+    },
+    "5": {
+      "item": "nkquest:ash"
+    },
+    "6": {
+      "item": "minecraft:gunpowder"
+    },
+    "7": {
+      "item": "nkquest:ash"
+    },
+    "8": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "nkquest:fuse",
+    "count": 8
+  }
+}

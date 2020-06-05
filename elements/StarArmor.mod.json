@@ -1,0 +1,43 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "",
+    "enableBody": false,
+    "textureBody": "",
+    "enableLeggings": false,
+    "textureLeggings": "",
+    "enableBoots": true,
+    "textureBoots": "starboots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "starboots_",
+    "helmetName": "Star Armor Helmet",
+    "bodyName": "Star Armor Body",
+    "leggingsName": "Star Armor Leggings",
+    "bootsName": "Star Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 0,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0
+  }
+}

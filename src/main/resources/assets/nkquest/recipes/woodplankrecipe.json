@@ -1,0 +1,27 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nkquest:woodenboard"
+    },
+    "1": {
+      "item": "nkquest:woodenboard"
+    },
+    "2": {
+      "item": "nkquest:woodenboard"
+    },
+    "3": {
+      "item": "nkquest:woodenboard"
+    }
+  },
+  "result": {
+    "item": "minecraft:planks",
+    "data": 0,
+    "count": 1
+  }
+}

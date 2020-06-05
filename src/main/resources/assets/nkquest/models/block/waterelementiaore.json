@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/infusedwaterore",
+    "up": "nkquest:blocks/infusedwaterore",
+    "north": "nkquest:blocks/infusedwaterore",
+    "east": "nkquest:blocks/infusedwaterore",
+    "south": "nkquest:blocks/infusedwaterore",
+    "west": "nkquest:blocks/infusedwaterore",
+    "particle": "nkquest:blocks/infusedwaterore"
+  }
+}

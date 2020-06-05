@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nkquest:mineralcavern_portal_ew"
+    },
+    "axis=x": {
+      "model": "nkquest:mineralcavern_portal_ns"
+    },
+    "inventory": {
+      "model": "nkquest:mineralcavern_portal_ns"
+    }
+  }
+}

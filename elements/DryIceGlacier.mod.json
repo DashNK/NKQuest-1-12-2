@@ -1,0 +1,70 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Dry Ice Glacier",
+    "groundBlock": {
+      "value": "CUSTOM:WhiteIce"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:WhiteIce"
+    },
+    "generateLakes": true,
+    "treeType": 0,
+    "vanillaTreeType": "Default",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": ""
+    },
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -7684384,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -11495833,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -9461783,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 0,
+    "grassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 8,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.0,
+    "temperature": -0.8,
+    "baseHeight": 1.5,
+    "heightVariation": 0.05,
+    "spawnBiome": true,
+    "biomeWeight": 2,
+    "biomeType": "ICY",
+    "biomeCategory": "ICY",
+    "parent": {
+      "value": "ocean"
+    },
+    "biomeDictionaryTypes": [
+      "SNOWY",
+      "COLD",
+      "MOUNTAIN"
+    ],
+    "spawnList": []
+  }
+}

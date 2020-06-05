@@ -1,0 +1,42 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:clay_ball"
+    },
+    "1": {
+      "item": "minecraft:gold_block"
+    },
+    "2": {
+      "item": "minecraft:clay_ball"
+    },
+    "3": {
+      "item": "minecraft:obsidian"
+    },
+    "4": {
+      "item": "nkquest:rune"
+    },
+    "5": {
+      "item": "minecraft:obsidian"
+    },
+    "6": {
+      "item": "minecraft:clay_ball"
+    },
+    "7": {
+      "item": "minecraft:lava_bucket"
+    },
+    "8": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "result": {
+    "item": "nkquest:runeofhell",
+    "count": 1
+  }
+}

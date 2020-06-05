@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/chromaticlogbottom",
+    "up": "nkquest:blocks/chromaticlogtop",
+    "north": "nkquest:blocks/chromaticlog",
+    "east": "nkquest:blocks/chromaticlog2",
+    "south": "nkquest:blocks/chromaticlog",
+    "west": "nkquest:blocks/chromaticlog2",
+    "particle": "nkquest:blocks/chromaticlogbottom"
+  }
+}

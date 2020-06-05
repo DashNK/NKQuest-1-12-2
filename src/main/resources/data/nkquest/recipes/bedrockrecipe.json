@@ -1,0 +1,42 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nkquest:bedrockshard"
+    },
+    "1": {
+      "item": "nkquest:bedrockshard"
+    },
+    "2": {
+      "item": "nkquest:bedrockshard"
+    },
+    "3": {
+      "item": "nkquest:bedrockshard"
+    },
+    "4": {
+      "item": "nkquest:crustrock"
+    },
+    "5": {
+      "item": "nkquest:bedrockshard"
+    },
+    "6": {
+      "item": "nkquest:bedrockshard"
+    },
+    "7": {
+      "item": "nkquest:bedrockshard"
+    },
+    "8": {
+      "item": "nkquest:bedrockshard"
+    }
+  },
+  "result": {
+    "item": "minecraft:bedrock",
+    "count": 1
+  }
+}

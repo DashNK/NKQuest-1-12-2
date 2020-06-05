@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/chromicleaves",
+    "up": "nkquest:blocks/chromicleaves",
+    "north": "nkquest:blocks/chromicleaves",
+    "east": "nkquest:blocks/chromicleaves",
+    "south": "nkquest:blocks/chromicleaves",
+    "west": "nkquest:blocks/chromicleaves",
+    "particle": "nkquest:blocks/chromicleaves"
+  }
+}

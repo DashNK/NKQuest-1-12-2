@@ -1,0 +1,23 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:potion",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "result": {
+    "item": "nkquest:runecompound",
+    "count": 1
+  }
+}

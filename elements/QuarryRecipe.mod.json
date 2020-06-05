@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:gearIron"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "TAG:gearIron"
+      },
+      {
+        "value": "TAG:gearGold"
+      },
+      {
+        "value": "TAG:gearIron"
+      },
+      {
+        "value": "TAG:gearGold"
+      },
+      {
+        "value": "TAG:gearDiamond"
+      },
+      {
+        "value": "Items.DIAMOND_PICKAXE"
+      },
+      {
+        "value": "TAG:gearDiamond"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:QuarryPlus"
+    },
+    "name": "quarryrecipe",
+    "namespace": "mod"
+  }
+}

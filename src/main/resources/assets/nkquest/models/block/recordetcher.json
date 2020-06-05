@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/tuner",
+    "up": "nkquest:blocks/etchertop",
+    "north": "nkquest:blocks/tuner",
+    "east": "nkquest:blocks/tuner",
+    "south": "nkquest:blocks/tuner",
+    "west": "nkquest:blocks/tuner",
+    "particle": "nkquest:blocks/tuner"
+  }
+}

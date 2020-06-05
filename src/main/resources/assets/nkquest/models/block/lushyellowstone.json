@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/gorgerock",
+    "up": "nkquest:blocks/gorgegrasstop",
+    "north": "nkquest:blocks/gorgegrass",
+    "east": "nkquest:blocks/gorgegrass",
+    "south": "nkquest:blocks/gorgegrass",
+    "west": "nkquest:blocks/gorgegrass",
+    "particle": "nkquest:blocks/gorgerock"
+  }
+}

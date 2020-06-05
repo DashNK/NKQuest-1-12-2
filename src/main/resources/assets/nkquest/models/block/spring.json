@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/jumppad_bottom",
+    "up": "nkquest:blocks/jumppad_top_weak",
+    "north": "nkquest:blocks/jumppad_side_weak",
+    "east": "nkquest:blocks/jumppad_side_weak",
+    "south": "nkquest:blocks/jumppad_side_weak",
+    "west": "nkquest:blocks/jumppad_side_weak",
+    "particle": "nkquest:blocks/jumppad_bottom"
+  }
+}

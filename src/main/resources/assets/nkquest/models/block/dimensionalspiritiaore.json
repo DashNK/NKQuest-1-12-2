@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/dimensionalspiritia",
+    "up": "nkquest:blocks/dimensionalspiritia",
+    "north": "nkquest:blocks/dimensionalspiritia",
+    "east": "nkquest:blocks/dimensionalspiritia",
+    "south": "nkquest:blocks/dimensionalspiritia",
+    "west": "nkquest:blocks/dimensionalspiritia",
+    "particle": "nkquest:blocks/dimensionalspiritia"
+  }
+}

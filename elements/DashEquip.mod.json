@@ -1,0 +1,50 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": false,
+    "textureHelmet": "",
+    "enableBody": true,
+    "textureBody": "armordashshell",
+    "enableLeggings": false,
+    "textureLeggings": "",
+    "enableBoots": true,
+    "textureBoots": "dashs_boots",
+    "onBodyTick": {
+      "name": "ShellEvents"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ModTab"
+    },
+    "armorTextureFile": "dash01_",
+    "helmetName": "",
+    "bodyName": "Dash's Shell",
+    "leggingsName": "",
+    "bootsName": "Dash's Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 0,
+    "damageValueHelmet": 0,
+    "damageValueBody": 0,
+    "damageValueLeggings": 0,
+    "damageValueBoots": 0,
+    "enchantability": 0,
+    "toughness": 1.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

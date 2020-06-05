@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/quarry",
+    "up": "nkquest:blocks/quarry",
+    "north": "nkquest:blocks/quarry",
+    "east": "nkquest:blocks/quarry",
+    "south": "nkquest:blocks/quarry",
+    "west": "nkquest:blocks/quarry",
+    "particle": "nkquest:blocks/quarry"
+  }
+}

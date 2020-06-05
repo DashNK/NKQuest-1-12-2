@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nkquest:racelineblock"
+    },
+    "facing=north": {
+      "model": "nkquest:racelineblock"
+    },
+    "facing=east": {
+      "model": "nkquest:racelineblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nkquest:racelineblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nkquest:racelineblock",
+      "y": 270
+    }
+  }
+}

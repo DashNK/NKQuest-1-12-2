@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/ore_quartz",
+    "up": "nkquest:blocks/ore_quartz",
+    "north": "nkquest:blocks/ore_quartz",
+    "east": "nkquest:blocks/ore_quartz",
+    "south": "nkquest:blocks/ore_quartz",
+    "west": "nkquest:blocks/ore_quartz",
+    "particle": "nkquest:blocks/ore_quartz"
+  }
+}

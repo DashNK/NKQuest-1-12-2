@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/voidblock",
+    "up": "nkquest:blocks/voidblock",
+    "north": "nkquest:blocks/voidblock",
+    "east": "nkquest:blocks/void",
+    "south": "nkquest:blocks/voidblock",
+    "west": "nkquest:blocks/voidblock",
+    "particle": "nkquest:blocks/voidblock"
+  }
+}

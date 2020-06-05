@@ -10,7 +10,7 @@
     "modid": "nkquest",
     "modName": "nkquest",
     "version": "1.0.0",
-    "author": "Jayden, MCreator",
+    "author": "DashNK",
     "websiteURL": "https://mcreator.net",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
@@ -19,6 +19,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "1.12.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.nkquest",
     "lockBaseModFiles": false
   },

@@ -1,0 +1,16 @@
+{
+  "_fv": 6,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:GoldGear"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "gearGold",
+    "namespace": "forge"
+  }
+}

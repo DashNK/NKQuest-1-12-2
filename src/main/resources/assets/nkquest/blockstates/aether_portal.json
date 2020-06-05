@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nkquest:aether_portal_ew"
+    },
+    "axis=x": {
+      "model": "nkquest:aether_portal_ns"
+    },
+    "inventory": {
+      "model": "nkquest:aether_portal_ns"
+    }
+  }
+}

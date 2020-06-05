@@ -1,0 +1,56 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:ServerPortalFrame"
+    },
+    "portalParticles": {
+      "value": "SUSPENDED_DEPTH"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": ""
+    },
+    "igniterName": "Server Rune [Twilight Rift]",
+    "igniterTab": {
+      "value": "No creative tab entry"
+    },
+    "texture": "portalrune_creative",
+    "portalTexture": "portal_twilightrift",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "void"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:RealityFabric"
+    },
+    "secondaryFillerBlock": {
+      "value": "CUSTOM:RealityFabric"
+    },
+    "tertiaryFillerBlock": {
+      "value": "Blocks.AIR"
+    },
+    "fluidBlock": {
+      "value": "Blocks.AIR"
+    },
+    "airColor": {
+      "value": -13434778,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "hasWeather": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "DENY",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": ""
+    }
+  }
+}

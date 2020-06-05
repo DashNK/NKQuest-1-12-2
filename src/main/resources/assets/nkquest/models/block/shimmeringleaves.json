@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/goldenleaves",
+    "up": "nkquest:blocks/goldenleaves",
+    "north": "nkquest:blocks/goldenleaves",
+    "east": "nkquest:blocks/goldenleaves",
+    "south": "nkquest:blocks/goldenleaves",
+    "west": "nkquest:blocks/goldenleaves",
+    "particle": "nkquest:blocks/goldenleaves"
+  }
+}

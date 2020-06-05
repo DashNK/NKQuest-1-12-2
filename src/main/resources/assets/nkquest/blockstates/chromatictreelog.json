@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nkquest:chromatictreelog"
+    },
+    "facing=north": {
+      "model": "nkquest:chromatictreelog"
+    },
+    "facing=east": {
+      "model": "nkquest:chromatictreelog",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nkquest:chromatictreelog",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nkquest:chromatictreelog",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "nkquest:chromatictreelog",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "nkquest:chromatictreelog",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nkquest:woodenboard"
+    },
+    {
+      "item": "nkquest:woodenboard"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stick",
+    "count": 1
+  }
+}

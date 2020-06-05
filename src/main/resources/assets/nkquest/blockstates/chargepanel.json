@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nkquest:chargepanel"
+    },
+    "facing=north": {
+      "model": "nkquest:chargepanel"
+    },
+    "facing=east": {
+      "model": "nkquest:chargepanel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nkquest:chargepanel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nkquest:chargepanel",
+      "y": 270
+    }
+  }
+}

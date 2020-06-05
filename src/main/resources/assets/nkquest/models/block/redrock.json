@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/redrock",
+    "up": "nkquest:blocks/redrock",
+    "north": "nkquest:blocks/redrock",
+    "east": "nkquest:blocks/redrock",
+    "south": "nkquest:blocks/redrock",
+    "west": "nkquest:blocks/redrock",
+    "particle": "nkquest:blocks/redrock"
+  }
+}

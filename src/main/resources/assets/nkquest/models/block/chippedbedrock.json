@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/chippedbedrock",
+    "up": "nkquest:blocks/chippedbedrock",
+    "north": "nkquest:blocks/chippedbedrock",
+    "east": "nkquest:blocks/chippedbedrock",
+    "south": "nkquest:blocks/chippedbedrock",
+    "west": "nkquest:blocks/chippedbedrock",
+    "particle": "nkquest:blocks/chippedbedrock"
+  }
+}

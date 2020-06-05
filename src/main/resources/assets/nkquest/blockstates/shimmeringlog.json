@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nkquest:shimmeringlog"
+    },
+    "facing=south": {
+      "model": "nkquest:shimmeringlog"
+    },
+    "facing=north": {
+      "model": "nkquest:shimmeringlog"
+    },
+    "facing=east": {
+      "model": "nkquest:shimmeringlog",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "nkquest:shimmeringlog",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "nkquest:shimmeringlog",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "nkquest:shimmeringlog",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

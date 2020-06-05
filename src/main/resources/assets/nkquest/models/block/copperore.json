@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/copperore",
+    "up": "nkquest:blocks/copperore",
+    "north": "nkquest:blocks/copperore",
+    "east": "nkquest:blocks/copperore",
+    "south": "nkquest:blocks/copperore",
+    "west": "nkquest:blocks/copperore",
+    "particle": "nkquest:blocks/copperore"
+  }
+}

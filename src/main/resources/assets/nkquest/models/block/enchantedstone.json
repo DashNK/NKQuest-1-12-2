@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/enchantedstone",
+    "up": "nkquest:blocks/enchantedstone",
+    "north": "nkquest:blocks/enchantedstone",
+    "east": "nkquest:blocks/enchantedstone",
+    "south": "nkquest:blocks/enchantedstone",
+    "west": "nkquest:blocks/enchantedstone",
+    "particle": "nkquest:blocks/enchantedstone"
+  }
+}

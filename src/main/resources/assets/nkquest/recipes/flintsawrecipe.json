@@ -1,0 +1,22 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "nkquest:flintsaw",
+    "count": 1
+  }
+}

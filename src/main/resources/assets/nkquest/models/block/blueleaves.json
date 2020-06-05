@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nkquest:blocks/leavesblue",
+    "particle": "nkquest:blocks/leavesblue"
+  }
+}

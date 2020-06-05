@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "iceball",
+    "customModelName": "Normal",
+    "name": "Ice Ball",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 2.9,
+    "bulletKnockback": 2,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:IceBall"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsPlayer": {
+      "name": "IceBallBulletEntityImpact"
+    },
+    "onBulletHitsEntity": {
+      "name": "IceBallBulletEntityImpact"
+    },
+    "onRangedItemUsed": {
+      "name": "RemoveIceball"
+    }
+  }
+}

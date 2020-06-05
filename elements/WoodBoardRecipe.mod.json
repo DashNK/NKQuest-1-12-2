@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LogBark"
+      },
+      {
+        "value": "CUSTOM:LogBark"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LogBark"
+      },
+      {
+        "value": "CUSTOM:LogBark"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WoodenBoard"
+    },
+    "name": "woodboardrecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/serverportalblock",
+    "up": "nkquest:blocks/serverportalblock",
+    "north": "nkquest:blocks/serverportalblock",
+    "east": "nkquest:blocks/serverportalblock",
+    "south": "nkquest:blocks/serverportalblock",
+    "west": "nkquest:blocks/serverportalblock",
+    "particle": "nkquest:blocks/serverportalblock"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "nkquest:mysteriacrystal"
+    },
+    "3": {
+      "item": "nkquest:mysteriacrystal"
+    },
+    "4": {
+      "item": "nkquest:mysterycapsule"
+    },
+    "5": {
+      "item": "nkquest:mysteriacrystal"
+    },
+    "7": {
+      "item": "nkquest:mysteriacrystal"
+    }
+  },
+  "result": {
+    "item": "nkquest:luckymysterycapsule",
+    "count": 1
+  }
+}

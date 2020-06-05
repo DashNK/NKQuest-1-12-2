@@ -1,0 +1,11 @@
+{
+  "_fv": 6,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "BACKSLASH",
+    "keyBindingName": "Switch Player Ability",
+    "onKeyPressed": {
+      "name": "SwitchAbility"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/drieddirt",
+    "up": "nkquest:blocks/drieddirt",
+    "north": "nkquest:blocks/drieddirt",
+    "east": "nkquest:blocks/drieddirt",
+    "south": "nkquest:blocks/drieddirt",
+    "west": "nkquest:blocks/drieddirt",
+    "particle": "nkquest:blocks/drieddirt"
+  }
+}

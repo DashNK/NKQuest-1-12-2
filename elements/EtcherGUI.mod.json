@@ -1,0 +1,92 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 372,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Record Tuner",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Record Tuner",
+          "x": 366,
+          "y": 57
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:BlankRecord"
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 354,
+          "y": 96
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "name": "Slot #1",
+          "x": 408,
+          "y": 78
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "name": "Slot #2",
+          "x": 408,
+          "y": 186
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Tune",
+          "width": 54,
+          "height": 40,
+          "name": "Tune",
+          "x": 480,
+          "y": 186
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Reset",
+          "width": 54,
+          "height": 40,
+          "name": "Reset",
+          "x": 318,
+          "y": 186
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:ChargedFrequencyCrystal"
+          },
+          "id": 3,
+          "name": "Slot #3",
+          "x": 462,
+          "y": 96
+        }
+      }
+    ]
+  }
+}

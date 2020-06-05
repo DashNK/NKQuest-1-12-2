@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/cyberpole_on",
+    "up": "nkquest:blocks/cyberpole_on",
+    "north": "nkquest:blocks/cyberpole_on",
+    "east": "nkquest:blocks/cyberpole_on",
+    "south": "nkquest:blocks/cyberpole_on",
+    "west": "nkquest:blocks/cyberpole_on",
+    "particle": "nkquest:blocks/cyberpole_on"
+  }
+}

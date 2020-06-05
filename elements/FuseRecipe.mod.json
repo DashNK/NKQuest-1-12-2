@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 8,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "CUSTOM:Ash"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "CUSTOM:Ash"
+      },
+      {
+        "value": "Blocks.WOOL"
+      },
+      {
+        "value": "CUSTOM:Ash"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "CUSTOM:Ash"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Fuse"
+    },
+    "name": "fuserecipe",
+    "namespace": "mod"
+  }
+}

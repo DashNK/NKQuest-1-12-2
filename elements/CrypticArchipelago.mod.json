@@ -1,0 +1,56 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:ServerPortalFrame"
+    },
+    "portalParticles": {
+      "value": "VILLAGER_HAPPY"
+    },
+    "portalLuminance": 1.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Cryptic Portal Rune",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "portalrune_creative",
+    "portalTexture": "crypticportal",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "deep_ocean"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "secondaryFillerBlock": {
+      "value": "Blocks.SAND#0"
+    },
+    "tertiaryFillerBlock": {
+      "value": ""
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": 6411007,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "dimensionMusic": {
+      "value": ""
+    }
+  }
+}

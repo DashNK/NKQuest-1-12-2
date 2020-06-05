@@ -1,0 +1,35 @@
+{
+  "_fv": 6,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "icesword",
+    "customModelName": "Normal",
+    "name": "Ice Sword",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 0,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:IceBall"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

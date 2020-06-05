@@ -1,0 +1,30 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "minecraft:redstone"
+    },
+    "4": {
+      "item": "nkquest:fuse"
+    },
+    "5": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "nkquest:chargedfuse",
+    "count": 4
+  }
+}

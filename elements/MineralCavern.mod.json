@@ -1,0 +1,83 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.COAL_BLOCK"
+    },
+    "portalParticles": {
+      "value": "SUSPENDED_DEPTH"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "ambient.cave"
+    },
+    "igniterName": "Rune of the Cavern",
+    "igniterTab": {
+      "value": "TRANSPORTATION"
+    },
+    "texture": "portalrune_mineralcaverns",
+    "portalTexture": "voidblock",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:LushCavern"
+      },
+      {
+        "value": "CUSTOM:MushroomCavern"
+      },
+      {
+        "value": "CUSTOM:StoneCavern"
+      },
+      {
+        "value": "CUSTOM:SandyCaves"
+      },
+      {
+        "value": "CUSTOM:ChillyCaves"
+      },
+      {
+        "value": "CUSTOM:DrippingCaves"
+      },
+      {
+        "value": "CUSTOM:StickyCaves"
+      },
+      {
+        "value": "CUSTOM:MineralCaves"
+      },
+      {
+        "value": "CUSTOM:WebbedCaves"
+      },
+      {
+        "value": "CUSTOM:UndeadCaves"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Crustrock"
+    },
+    "secondaryFillerBlock": {
+      "value": "CUSTOM:Silt"
+    },
+    "tertiaryFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.AIR"
+    },
+    "airColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "hasWeather": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "DENY",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": ""
+    }
+  }
+}

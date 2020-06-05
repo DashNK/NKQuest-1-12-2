@@ -1,0 +1,46 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "dimentiomask",
+    "enableBody": false,
+    "textureBody": "",
+    "enableLeggings": false,
+    "textureLeggings": "",
+    "enableBoots": false,
+    "textureBoots": "",
+    "onHelmetTick": {
+      "name": "DimentioEvents"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "dimmask",
+    "helmetName": "Dimentio's Mask",
+    "bodyName": "Dimentio Mask Body",
+    "leggingsName": "Dimentio Mask Leggings",
+    "bootsName": "Dimentio Mask Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 0,
+    "damageValueHelmet": 0,
+    "damageValueBody": 0,
+    "damageValueLeggings": 0,
+    "damageValueBoots": 0,
+    "enchantability": 0,
+    "toughness": 0.0
+  }
+}

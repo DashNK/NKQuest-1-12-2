@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/crackedprismarine",
+    "up": "nkquest:blocks/crackedprismarine",
+    "north": "nkquest:blocks/crackedprismarine",
+    "east": "nkquest:blocks/crackedprismarine",
+    "south": "nkquest:blocks/crackedprismarine",
+    "west": "nkquest:blocks/crackedprismarine",
+    "particle": "nkquest:blocks/crackedprismarine"
+  }
+}

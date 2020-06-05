@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 2,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.END_STONE"
+      },
+      {
+        "value": "CUSTOM:Rune"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      },
+      {
+        "value": "Items.ENDER_PEARL"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      },
+      {
+        "value": "Blocks.END_STONE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.END_PORTAL_FRAME"
+    },
+    "name": "endportalframerecipe",
+    "namespace": "mod"
+  }
+}

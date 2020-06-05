@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "shellwalker_helmet_green",
+    "enableBody": true,
+    "textureBody": "shellwalker_shell_green",
+    "enableLeggings": false,
+    "textureLeggings": "",
+    "enableBoots": true,
+    "textureBoots": "shellwalker_boots_green",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "shellwalker_green",
+    "helmetName": "Green Shellwalker Armor Helmet",
+    "bodyName": "Green Shellwalker Shell",
+    "leggingsName": "Green Shellwalker Armor Leggings",
+    "bootsName": "Green Shellwalker Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 0,
+    "damageValueHelmet": 2,
+    "damageValueBody": 3,
+    "damageValueLeggings": 0,
+    "damageValueBoots": 0,
+    "enchantability": 0,
+    "toughness": 1.5,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

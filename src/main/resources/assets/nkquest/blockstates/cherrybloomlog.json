@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "nkquest:cherrybloomlog"
+    },
+    "facing=south": {
+      "model": "nkquest:cherrybloomlog"
+    },
+    "facing=north": {
+      "model": "nkquest:cherrybloomlog"
+    },
+    "facing=east": {
+      "model": "nkquest:cherrybloomlog",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "nkquest:cherrybloomlog",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "nkquest:cherrybloomlog",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "nkquest:cherrybloomlog",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

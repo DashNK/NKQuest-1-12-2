@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "Serene Form",
+    "effectName": "Superstar",
+    "icon": "paradisestar.png",
+    "color": {
+      "value": -154,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": false,
+    "curativeItems": [],
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onActiveTick": {
+      "name": "SuperstarFormOnPotionActiveTick"
+    }
+  }
+}

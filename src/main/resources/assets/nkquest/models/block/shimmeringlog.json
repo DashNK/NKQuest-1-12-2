@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/shimmeringlogtop",
+    "up": "nkquest:blocks/shimmeringlogtop",
+    "north": "nkquest:blocks/shimmeringlog",
+    "east": "nkquest:blocks/shimmeringlog",
+    "south": "nkquest:blocks/shimmeringlog",
+    "west": "nkquest:blocks/shimmeringlog",
+    "particle": "nkquest:blocks/shimmeringlogtop"
+  }
+}

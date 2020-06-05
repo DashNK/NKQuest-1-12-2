@@ -1,0 +1,182 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 800,
+    "height": 470,
+    "renderBgLayer": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Species",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Species",
+          "x": 390,
+          "y": 24
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Turtle",
+          "width": 180,
+          "height": 40,
+          "name": "Turtle",
+          "x": 66,
+          "y": 114
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Lizard",
+          "width": 180,
+          "height": 40,
+          "name": "Lizard",
+          "x": 66,
+          "y": 168
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Spectral Entity",
+          "width": 180,
+          "height": 40,
+          "name": "Spectral Entity",
+          "x": 66,
+          "y": 222
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Fox",
+          "width": 180,
+          "height": 40,
+          "name": "Fox",
+          "x": 66,
+          "y": 276
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Human",
+          "width": 180,
+          "height": 40,
+          "name": "Human",
+          "x": 66,
+          "y": 60
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Dragon",
+          "width": 180,
+          "height": 40,
+          "name": "Dragon",
+          "x": 66,
+          "y": 330
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Cat",
+          "width": 180,
+          "height": 40,
+          "name": "Cat",
+          "x": 336,
+          "y": 60
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Wolf",
+          "width": 180,
+          "height": 40,
+          "name": "Wolf",
+          "x": 336,
+          "y": 114
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Bird",
+          "width": 180,
+          "height": 40,
+          "name": "Bird",
+          "x": 336,
+          "y": 168
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Rabbit",
+          "width": 180,
+          "height": 40,
+          "name": "Rabbit",
+          "x": 336,
+          "y": 222
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Admin",
+          "onClick": {
+            "name": "OpenAdminPanel"
+          },
+          "width": 100,
+          "height": 40,
+          "name": "Admin",
+          "x": 678,
+          "y": 6
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "X",
+          "width": 36,
+          "height": 40,
+          "name": "X",
+          "x": 786,
+          "y": 6
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "blackchartextbar2.png",
+          "name": "blackchartextbar2.png",
+          "x": 336,
+          "y": 438
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:Player>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:Player>",
+          "x": 364,
+          "y": 441
+        }
+      }
+    ]
+  }
+}

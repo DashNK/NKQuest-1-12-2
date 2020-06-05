@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nkquest:blocks/whitefrost",
+    "particle": "nkquest:blocks/whitefrost"
+  }
+}

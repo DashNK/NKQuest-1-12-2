@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pitbiomeexample:blocks/void",
+    "up": "pitbiomeexample:blocks/void",
+    "north": "pitbiomeexample:blocks/void",
+    "east": "pitbiomeexample:blocks/void",
+    "south": "pitbiomeexample:blocks/void",
+    "west": "pitbiomeexample:blocks/void",
+    "particle": "pitbiomeexample:blocks/void"
+  }
+}

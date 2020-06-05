@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/ironjukebox",
+    "up": "nkquest:blocks/ironjukebox_top",
+    "north": "nkquest:blocks/ironjukebox",
+    "east": "nkquest:blocks/ironjukebox",
+    "south": "nkquest:blocks/ironjukebox",
+    "west": "nkquest:blocks/ironjukebox",
+    "particle": "nkquest:blocks/ironjukebox"
+  }
+}

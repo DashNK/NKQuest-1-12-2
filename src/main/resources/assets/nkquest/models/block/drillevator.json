@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/caverfrontsides",
+    "up": "nkquest:blocks/caverfrontsides",
+    "north": "nkquest:blocks/caverfront",
+    "east": "nkquest:blocks/caverfrontsides",
+    "south": "nkquest:blocks/caverfrontsides",
+    "west": "nkquest:blocks/caverfrontsides",
+    "particle": "nkquest:blocks/caverfrontsides"
+  }
+}

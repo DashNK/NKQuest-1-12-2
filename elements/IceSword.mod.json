@@ -1,0 +1,33 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "icesword",
+    "customModelName": "Normal",
+    "name": "Ice Sword",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 0,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.5,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 2.5,
+    "specialInfo": [],
+    "hasGlow": false,
+    "onRightClickedInAir": {
+      "name": "IceStormTrigger"
+    },
+    "onRightClickedOnBlock": {
+      "name": "IceStormTrigger"
+    },
+    "onEntityHitWith": {
+      "name": "IceBallBulletEntityImpact"
+    }
+  }
+}

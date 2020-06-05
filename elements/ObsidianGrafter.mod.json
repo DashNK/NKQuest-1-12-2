@@ -1,0 +1,34 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "obsidiangrafter",
+    "customModelName": "Normal",
+    "name": "Obsidian Grafter",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Special",
+    "harvestLevel": 10,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 5.0,
+    "usageCount": 128,
+    "blocksAffected": [
+      {
+        "value": "Blocks.BEDROCK"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.OBSIDIAN"
+      }
+    ],
+    "onRightClickedOnBlock": {
+      "name": "GraftBedrock"
+    }
+  }
+}

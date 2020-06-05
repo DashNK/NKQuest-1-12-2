@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/ore_glowstone",
+    "up": "nkquest:blocks/ore_glowstone",
+    "north": "nkquest:blocks/ore_glowstone",
+    "east": "nkquest:blocks/ore_glowstone",
+    "south": "nkquest:blocks/ore_glowstone",
+    "west": "nkquest:blocks/ore_glowstone",
+    "particle": "nkquest:blocks/ore_glowstone"
+  }
+}

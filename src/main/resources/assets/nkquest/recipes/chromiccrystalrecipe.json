@@ -1,0 +1,42 @@
+{
+  "group": "nkquest",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nkquest:chromicdust"
+    },
+    "1": {
+      "item": "nkquest:chromicdust"
+    },
+    "2": {
+      "item": "nkquest:chromicdust"
+    },
+    "3": {
+      "item": "nkquest:chromicdust"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "nkquest:chromicdust"
+    },
+    "6": {
+      "item": "nkquest:chromicdust"
+    },
+    "7": {
+      "item": "nkquest:chromicdust"
+    },
+    "8": {
+      "item": "nkquest:chromicdust"
+    }
+  },
+  "result": {
+    "item": "nkquest:chromiccrystal",
+    "count": 1
+  }
+}

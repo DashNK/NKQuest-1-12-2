@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/goldencrystalblock",
+    "up": "nkquest:blocks/goldencrystalblock",
+    "north": "nkquest:blocks/goldencrystalblock",
+    "east": "nkquest:blocks/goldencrystalblock",
+    "south": "nkquest:blocks/goldencrystalblock",
+    "west": "nkquest:blocks/goldencrystalblock",
+    "particle": "nkquest:blocks/goldencrystalblock"
+  }
+}

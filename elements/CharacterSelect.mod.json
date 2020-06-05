@@ -1,0 +1,228 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 260,
+    "height": 512,
+    "renderBgLayer": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Dash",
+          "onClick": {
+            "name": "SelectDash"
+          },
+          "width": 180,
+          "height": 40,
+          "name": "Dash",
+          "x": 336,
+          "y": 24
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Petch",
+          "onClick": {
+            "name": "SetPetch"
+          },
+          "width": 180,
+          "height": 40,
+          "name": "Petch",
+          "x": 336,
+          "y": 60
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Shade",
+          "onClick": {
+            "name": "SelectShade"
+          },
+          "width": 180,
+          "height": 40,
+          "name": "Shade",
+          "x": 336,
+          "y": 96
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Cnder",
+          "onClick": {
+            "name": "SetPunio"
+          },
+          "width": 180,
+          "height": 40,
+          "name": "Cnder",
+          "x": 336,
+          "y": 132
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Trinity",
+          "onClick": {
+            "name": "SetTrinity"
+          },
+          "width": 180,
+          "height": 40,
+          "name": "Trinity",
+          "x": 336,
+          "y": 168
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Bryan",
+          "onClick": {
+            "name": "SetBryan"
+          },
+          "width": 180,
+          "height": 40,
+          "name": "Bryan",
+          "x": 336,
+          "y": 204
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Luke",
+          "onClick": {
+            "name": "SetLuke"
+          },
+          "width": 180,
+          "height": 40,
+          "name": "Luke",
+          "x": 336,
+          "y": 240
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "LuigiFan456",
+          "onClick": {
+            "name": "SetLuigiFan456"
+          },
+          "width": 180,
+          "height": 40,
+          "name": "LuigiFan456",
+          "x": 336,
+          "y": 276
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Character Select",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Character Select",
+          "x": 347,
+          "y": 6
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:Player>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:Player>",
+          "x": 346,
+          "y": 407
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Chaos Angel",
+          "onClick": {
+            "name": "SetChaosAngel"
+          },
+          "width": 180,
+          "height": 40,
+          "name": "Chaos Angel",
+          "x": 336,
+          "y": 312
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Izzy",
+          "onClick": {
+            "name": "SetIzzy"
+          },
+          "width": 180,
+          "height": 40,
+          "name": "Izzy",
+          "x": 336,
+          "y": 348
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Done",
+          "onClick": {
+            "name": "FinishSetup"
+          },
+          "width": 108,
+          "height": 40,
+          "name": "Done",
+          "x": 444,
+          "y": 438
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Back",
+          "onClick": {
+            "name": "BackToWorldSetup"
+          },
+          "width": 108,
+          "height": 40,
+          "name": "Back",
+          "x": 300,
+          "y": 438
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "blackchartextbar2.png",
+          "name": "blackchartextbar2.png",
+          "x": 336,
+          "y": 402
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:Player>",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "<VAR:Player>",
+          "x": 364,
+          "y": 405
+        }
+      }
+    ]
+  }
+}

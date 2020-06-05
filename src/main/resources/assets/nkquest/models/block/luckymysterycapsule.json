@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nkquest:blocks/myseryapsulebottom",
+    "up": "nkquest:blocks/luckymysterycapsuletop",
+    "north": "nkquest:blocks/luckymysterycapsuleside",
+    "east": "nkquest:blocks/luckymysterycapsuleside",
+    "south": "nkquest:blocks/luckymysterycapsuleside",
+    "west": "nkquest:blocks/luckymysterycapsuleside",
+    "particle": "nkquest:blocks/myseryapsulebottom"
+  }
+}
